@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelWOL\Api\Controllers;
+namespace LaravelWOL\API\Controllers;
 
 use Illuminate\Foundation\Auth\ResetsPasswords;
 use Dingo\Api\Facade\API;
